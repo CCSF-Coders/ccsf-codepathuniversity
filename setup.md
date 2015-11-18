@@ -36,6 +36,8 @@ Students will need:
         > git --version
 
 #### Optional (more detail coming later)
+1. [GitHub for Macs](https://mac.github.com/) -- if you are new to git/GitHub install this GUI tool after installing git as described above
+  - GitHub for Mac tutorial:  https://vimeo.com/98102453
 1. [Homebrew](http://brew.sh/)
 1. [CocoaPods](http://cocoapods.org)
 
