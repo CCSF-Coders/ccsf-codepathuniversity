@@ -5,7 +5,7 @@ CodePath University is a free 12-week mobile app development bootcamp for univer
   - https://medium.com/@CodePath/bringing-real-world-coding-education-to-colleges-233b530d7239 
   - http://www.codepathuniversity.com/ 
   - https://www.facebook.com/groups/codepathuniversity/
-  - (flyers) https://www.dropbox.com/sh/68cxbxc44tlq25k/AACMVn0PUSRRLfng06P-HjRBa?dl=0
+  - (flyers + curriculum outline) https://www.dropbox.com/sh/68cxbxc44tlq25k/AACMVn0PUSRRLfng06P-HjRBa?dl=0
 - structure of CodePath University
   - CodePath University will be a 12-week program starting in January 2016
   - There will be two 2hr in-person classes per week, plus ~15hrs of homework per week.
