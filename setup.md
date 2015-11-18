@@ -48,7 +48,7 @@ Students will need:
 Please email us the following:
 - screenshot of your OS X version
 - screenshot of your Xcode version
-- screenshot(s) of the results of the following commands:
+- screenshot(s) of the results of the following commands (run from the Terminal):
 
     ```
     echo $PATH
