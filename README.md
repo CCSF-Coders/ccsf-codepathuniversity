@@ -1,2 +1,11 @@
-# ccsf-codepathuniversity
-repo in which to create working wiki for CCSF students as they prepare for CodePath University Spring 2016 pilot (not 100% but we have a good shot at being 1 of the 20 pilot schools)
+# CodePath University @ CCSF
+CCSF students are pursuing the opportunity to be 1 of the 20 schools piloting the new CodePath University bootcamp
+
+ - [the opportunity](./opportunity.md)
+ - [the application](./application.md)
+ - [setting up your computer](./setup.md)
+ - [building your first iOS application using Swift](./first.md)
+ 
+# If CCSF is chosen for the Spring 2016 pilot:
+
+ - [the logistics](./logistics.md)
