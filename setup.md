@@ -39,5 +39,35 @@ Students will need:
 1. [Homebrew](http://brew.sh/)
 1. [CocoaPods](http://cocoapods.org)
 
+
+---
+#Installation Checkout
+
+Please email us the following:
+- screenshot of your OS X version
+- screenshot of your Xcode version
+- screenshot(s) of the results of the following commands:
+
+    ```
+    echo $PATH
+    ```
+
+    \> if any of the following shell initialization files (.profile, .bash_profile, .bashrc) are too big to easily take a screenshot of the contents displayed by the 'cat' command, then just attach them to the email.
+
+    ```
+    cd ~
+    ```
+    ```
+    cat .profile
+    ```
+    ```
+    cat .bash_profile
+    ```
+    ```
+    cat .bashrc
+    ```
+
+Some of these commands may return no result, meaning these files are not on your machine, which is not necessarily a problem, but it's good for us to know if you do.
+
 ---
 ### Now make your [first iOS app](first.md) or return to the [main page](README.md).
