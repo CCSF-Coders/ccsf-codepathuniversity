@@ -27,7 +27,7 @@ Students will need:
     
       > git version 2.6.2
     
-    - for any other result, Ctrl + C to escape back to "the command line" ([more about the command line](./command-line))
+    - for any other result, Ctrl + C to escape back to "the command line" ([more about the command line](./command-line.md))
   - if you need to install git on your Mac, follow this link: http://git-scm.com/downloads
     - the *easiest* way to check if the installation worked:
       - open a \*new* Terminal window, and
@@ -38,3 +38,6 @@ Students will need:
 #### Optional (more detail coming later)
 1. [Homebrew](http://brew.sh/)
 1. [CocoaPods](http://cocoapods.org)
+
+---
+### Now make your [first iOS app](first.md) or return to the [main page](README.md).
