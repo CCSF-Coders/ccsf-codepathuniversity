@@ -9,3 +9,5 @@ CodePath open-source mobile development guides:
   - http://guides.codepath.com/ios
   - http://guides.codepath.com/ios/Designer-Guides
   - http://guides.codepath.com/android  
+
+###Return to the [main page](./README.md).
