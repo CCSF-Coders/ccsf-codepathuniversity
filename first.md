@@ -5,3 +5,7 @@
 TipCalculator in Swift 
 https://vimeo.com/102084767
 
+CodePath open-source mobile development guides:
+  - http://guides.codepath.com/ios
+  - http://guides.codepath.com/ios/Designer-Guides
+  - http://guides.codepath.com/android  
