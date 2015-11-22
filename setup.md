@@ -53,6 +53,10 @@ Please email us the following:
     ```
     echo $PATH
     ```
+    
+    ```
+    git --version
+    ```
 
     \> if any of the following shell initialization files (.profile, .bash_profile, .bashrc) are too big to easily take a screenshot of the contents displayed by the 'cat' command, then just attach them to the email.
 
