@@ -7,6 +7,7 @@ CCSF students are pursuing the opportunity to be 1 of the 20 schools piloting th
  - [sign up for GitHub](https://github.com/), if you haven't already 
  - [setting up your computer](./setup.md)
  - [building your first iOS application using Swift](./first.md)
+ - [using git / GitHub](./git-github.com)
  
 # If CCSF is chosen for Spring 2016 pilot:
 
