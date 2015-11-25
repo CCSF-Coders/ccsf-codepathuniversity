@@ -1,7 +1,7 @@
 # Setting up your Mac for iOS app development
 Students will need:
 
-1. **Mac computer** running OS X 10.10.5 or later (required to download Xcode 7). 
+1. **Mac computer** running OS X 10.10.5 or later (required to download Xcode 7), with at least 8 GB of RAM.
 
   > **_If you are upgrading your operating system, remember to backup existing iOS projects, software keys, etc -- ideally on an external hard drive_**.  
   > _If you have specialty software (video editing software, etc), please check with the user and support communities to verify the compatible versions of OS X *before* upgrading._
