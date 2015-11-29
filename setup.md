@@ -53,7 +53,9 @@ Please email us the following:
     ```
     echo $PATH
     ```
-    
+    ```
+    which git
+    ```
     ```
     git --version
     ```
