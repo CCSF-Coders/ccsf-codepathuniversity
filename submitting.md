@@ -30,5 +30,18 @@
   - write a Commit message like 'add animated GIF to README.md' and click the green "Commit changes" button
   - then Sync with the project as saved on your computer
 
+- checking off completed features in README.md checklist
+  - you'll notice that, at the beginning of each item in the lists of features to implement, you'll see:
+
+    `` * [ ] ``
+
+    - this creates an unchecked checkbox.  
+  - If later, you edited to this:
+
+    `` * [x] ``
+
+    - this will create a checked checkbox, indicating that you've implemented that feature.  
+
+
 
 ### Return to the [main page](README.md).
