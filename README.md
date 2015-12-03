@@ -8,7 +8,7 @@ CCSF students are pursuing the opportunity to be 1 of the 20 schools piloting th
  - [setting up your computer](./setup.md)
  - [building your first iOS application using Swift](./first.md)
  - [using git / GitHub](./git-github.md)
- - [using slack](./slack.md)
+ - [using slack effectively](./slack.md)
  - [submitting work to CodePath](./submitting.md)
  
 # If CCSF is chosen for Spring 2016 pilot:
