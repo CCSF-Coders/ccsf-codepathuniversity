@@ -2,6 +2,7 @@
 1. Complete short application here:   __http://www.codepathuniversity.com__
 1. Complete coding challenge by building a __basic Swift app by December 15th__
   - details of coding challenge will not be released to CCSF applicants until 100+ CCSF students have signed up
+  - HERE: http://courses.codepath.com/snippets/intro_to_ios/prework_university.md
 1. Students who work hard on the coding challenge will be invited to a __phone interview__
   - (I think) the interview will be screening for 2 things (and probably more):
     - is the applicant prepared for the time commitment (balancing with classes, work, family commitments, etc)? 
