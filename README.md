@@ -10,6 +10,8 @@ CCSF students are pursuing the opportunity to be 1 of the 20 schools piloting th
  - [using git / GitHub](./git-github.md)
  - [using slack effectively](./slack.md)
  - [submitting work to CodePath](./submitting.md)
+ - [more about Swift language](./swift.md)
+ - [videos from Apple's Worldwide Developers Conference (WWDC)](./wwdc.md)
  
 # If CCSF is chosen for Spring 2016 pilot:
 
