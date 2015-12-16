@@ -12,6 +12,7 @@ CCSF students are pursuing the opportunity to be 1 of the 20 schools piloting th
  - [submitting work to CodePath](./submitting.md)
  - [more about Swift language](./swift.md)
  - [videos from Apple's Worldwide Developers Conference (WWDC)](./wwdc.md)
+ - more [helpful resources](./resources.md)
  
 # If CCSF is chosen for Spring 2016 pilot:
 
