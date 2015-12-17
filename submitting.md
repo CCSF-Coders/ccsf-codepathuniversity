@@ -40,8 +40,14 @@
 
     `` * [x] ``
 
-    - this will create a checked checkbox, indicating that you've implemented that feature.  
+    - this will create a checked checkbox, indicating that you've implemented that feature.
 
+- creating an Issue to notify CodePath that you're all done
+  - in GitHub, you'll need to raise an "Issue" and tag CodePath on it.
+  - this will send CodePath reviewers a notification to come examine your submission
+  - open your repo on GitHub.com, and use the Issues feature to publish a new issue. On the issue, write comments similar to the following screenshot:
+  - ![Sample issue raised in GitHub](http://i.imgur.com/9Wvkjxgl.png)
+  - make sure your comments end with this exact text: `/cc @codepathreview`. This code is what tells GitHub to send a notification to the @codepathreview account.
 
 
 ### Return to the [main page](README.md).
