@@ -6,7 +6,7 @@
 
 - Apple Worldwide Developers Conference (WWDC) videos
   - WWDC 2014:  https://developer.apple.com/videos/wwdc2014
-    - [Intro to Swift]()  ([notes on video](http://tinyurl.com/wwdc2014-IntrotoSwift-video))
+    - [Intro to Swift](https://developer.apple.com/videos/play/wwdc2014-402/)  ([notes on video](http://tinyurl.com/wwdc2014-IntrotoSwift-video))
     - [Intermediate Swift]()
     - [Advanced Swift](https://developer.apple.com/videos/play/wwdc2014-404/)
     - [Advanced iOS Application Architecture and Pattern]()
