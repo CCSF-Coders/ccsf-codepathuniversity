@@ -5,6 +5,7 @@ Format is \[text about link](actual link)
 - [videos from Apple's Worldwide Developers Conference (WWDC)](./wwdc.md)
 - Xcode
   - [Fixing Xcode](https://guides.codepath.com/ios/Fixing-Xcode)
+  - [Using images in your iOS app](images.md)
 - Swift language
   - [more about Swift language](./swift.md)
   - [*The Swift Programming Language* iBook (Apple's official authoritative formal reference guide to Swift)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
