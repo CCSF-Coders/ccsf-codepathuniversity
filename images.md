@@ -2,8 +2,8 @@
 - png images are the preferred format
 - all the image assets should go into the Assets.xcassets folder
  - check out these guides:  
-   - https://github.com/codepath/ios_guides/wiki/Adding-Image-Assets
-   - https://github.com/codepath/ios_guides/wiki/Using-UIImageView
+    - https://github.com/codepath/ios_guides/wiki/Adding-Image-Assets
+    - https://github.com/codepath/ios_guides/wiki/Using-UIImageView
  - the best and easiest way is just to drag the assets from the finder into the Assets.xcassets folder
 
 - There is a naming convention that tells Xcode the resolution a particular image was intended for. you will often see things like, my_pic<i></i>@1x.png or my_pic<i></i>@2x.png. Xcode will automatically put those in the correct “slot” and manage them appropriately. 1x is for the iphone 3, 2x for retina 4-6 and 3x for 6plus
