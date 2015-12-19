@@ -14,6 +14,4 @@ https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/
 
 - you actually want as few actual image files in your app as possible because image assets take a ton of memory relative to pulling them down from a network. icons and stuff that will stay static and you need to appear instantly are good assets to have locally. Dynamic content is best to get from a network call.
 
-- 
-
 ### Return to the [resources](resources.md) page or to the [main page](README.md).
