@@ -2,10 +2,17 @@
 
 Format is \[text about link](actual link)
 
-- the most important advice for learning...[Write Code Every Day](http://ejohn.org/blog/write-code-every-day/)
-- [more about Swift language](./swift.md)
 - [videos from Apple's Worldwide Developers Conference (WWDC)](./wwdc.md)
-- [*The Swift Programming Language* iBook (Apple's official authoritative formal reference guide to Swift)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
+- Xcode
+  - [Fixing Xcode](https://guides.codepath.com/ios/Fixing-Xcode)
+- Swift language
+  - [more about Swift language](./swift.md)
+  - [*The Swift Programming Language* iBook (Apple's official authoritative formal reference guide to Swift)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
+  - style guides
+    - [Ray Wenderlich Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
+    - [Github Swift Style Guide](https://github.com/github/swift-style-guide)
+- General Advice
+  - the most important advice for learning...[Write Code Every Day](http://ejohn.org/blog/write-code-every-day/)
 - (add your link here)
 
 
