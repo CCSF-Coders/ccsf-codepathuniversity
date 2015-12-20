@@ -49,5 +49,8 @@
   - ![Sample issue raised in GitHub](http://i.imgur.com/9Wvkjxgl.png)
   - make sure your comments end with this exact text: `/cc @codepathreview`. This code is what tells GitHub to send a notification to the @codepathreview account.
 
+- complete this survey:  https://www.surveymonkey.com/r/BHLPQW3
+  - this allows CodePath to connect your GitHub account to your signup including which school you belong to 
+
 
 ### Return to the [main page](README.md).
