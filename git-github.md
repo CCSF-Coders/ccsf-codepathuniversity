@@ -11,6 +11,7 @@
 - interacting with git-GitHub with Xcode's Source Control menu: 
   - http://www.raywenderlich.com/51351/how-to-use-git-source-control-with-xcode-in-ios-7
   - Facebook discussion:  https://www.facebook.com/groups/codepathuniversity/permalink/221290394870573
+    - the individual Vimeo video:  https://vimeo.com/150189264 
 
 # using version control in general
 - [PSA for good commit messages](https://www.youtube.com/watch?v=8YjSty6bfog)
