@@ -2,7 +2,7 @@
 1. project README.md file
   - it's pretty easy to add a README file up on GitHub (there is a big green "Add a README" button on all projects without one)
   - once you click the "Add a README" button in your GitHub repo, then
-  - paste this template into the "Edit new file" section:  http://courses.codepath.com/snippets/intro_to_ios/readme_templates/prework_readme.md?raw=true
+  - paste the appropriate template into the "Edit new file" section:  
   - make changes to take out the generic  names & add your and your app's names
   - "Commit new file"
   - then Sync with the project as saved on your computer
