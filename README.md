@@ -3,6 +3,7 @@ CCSF students are pursuing the opportunity to be 1 of the 20 schools piloting th
 
  - [the opportunity](./opportunity.md)
  - [the application process](./application.md)
+ - [being a student lead](./studentLeads.md) (a large group of student leads are *essential* for this to happen at CCSF) 
  - [about CodePath](./aboutCodePath.md)
  - [sign up for GitHub](https://github.com/), if you haven't already 
  - [setting up your computer](./setup.md)
