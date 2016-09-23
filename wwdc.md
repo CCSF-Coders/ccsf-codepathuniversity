@@ -1,4 +1,5 @@
 ### Apple's Worldwide Developers Conference (WWDC) videos:
+- https://developer.apple.com/videos/wwdc2016
 - https://developer.apple.com/videos/wwdc2015
 - https://developer.apple.com/videos/wwdc2014
 - https://developer.apple.com/videos/wwdc2013
