@@ -17,7 +17,7 @@ CodePath University is a free 12-week mobile app development bootcamp for univer
       - plus ~15hrs of homework per week
     - During the first 8 weeks, assignment due every week
     - During the last 4 weeks, students form teams to build an app together
-    - The program culminates with a Demo Day of all the team-built apps (cash prizes for the winners)
+    - The program culminates with a Demo Day of all the team-built apps
   - **__if any class is skipped or if assignment is not turned in on-time, the student is immediately dropped from  class__**
     - counterintuitively this requirment makes the course completion rate go up
   - Additionally, CodePath partner companies are looking to network with & offer internships to well-performing students
