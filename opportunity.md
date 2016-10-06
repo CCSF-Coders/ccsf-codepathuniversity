@@ -1,5 +1,5 @@
 # Summary of CodePath University
-CodePath University is a free 12-week mobile app development bootcamp for universities. CodePath piloted this program at Stanford in Fall 2015, and with 17 universities in Spring 2016. The pilot focused on developing iOS app development, but in the future Android app development will be offered too (likely Spring 2018).
+CodePath University is a free 12-week mobile app development bootcamp for universities. CodePath piloted this program at Stanford in Fall 2015, and with 17 universities in Spring 2016. The pilot focused on developing iOS app development, but in Spring 2017 Web Application Security was offered, and in the future Android app development will be offered too (likely Spring 2018).
 
 - Online materials:
   - https://medium.com/@CodePath/bringing-real-world-coding-education-to-colleges-233b530d7239 
