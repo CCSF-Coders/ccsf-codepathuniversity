@@ -6,6 +6,21 @@ Students will need:
   > **_If you are upgrading your operating system, remember to backup existing iOS projects, software keys, etc -- ideally on an external hard drive_**.  
   > _If you have specialty software (video editing software, etc), please check with the user and support communities to verify the compatible versions of OS X *before* upgrading._
 
+  - if you're computer doesn't have 8GB of RAM yet:
+    - first you need to identify which model you have:  https://support.apple.com/en-us/HT201165
+      - If in doubt, just walk into an Apple store with your laptop & stop by the Genius Bar.  They'll tell you & then you can just buy it yourself online.
+    - then, if more RAM can be added (I think 2014 or older laptops), then you can enter that model into various stores:
+      - http://www.crucial.com/usa/en/apple-memory
+      - http://www.newegg.com/Mac-Memory/SubCategory/ID-551
+      - http://www.tigerdirect.com/applications/category/guidedSearch.asp?CatId=10
+      - http://www.kingston.com/us/memory/desktop-notebook
+
+      ...and they'll show you what they are selling that is compatible.
+    - then install the new memory cards:
+      - you can do it yourself following any of a number of YouTube videos (search for your specific Mac computer model)
+      - you can get a fellow student to help 
+      - walk into an Apple store & (in my experience) a Genius Bar employee can do it for you in less than 10 minutes      
+      
 1. **Xcode** -- the integrated development environment (IDE) from Apple for making software for iOS and OS X
   - First check to see if you already have Xcode installed on your Mac (look in your Applications folder):
     - if you already have Xcode, open the software to see which version number you have
