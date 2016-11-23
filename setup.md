@@ -1,7 +1,7 @@
 # Setting up your Mac for iOS app development
 Students will need:
 
-1. **Mac computer** running OS X 10.10.5 or later (required to download Xcode 7), with at least 8 GB of RAM.
+1. **Mac computer** running [OS X Sierra](https://en.wikipedia.org/wiki/MacOS_Sierra#System_requirements) 10.12.1 (req'd to download Xcode 8.1 and have Swift 3.0.1), with **at least 8 GB** of RAM.
 
   > **_If you are upgrading your operating system, remember to backup existing iOS projects, software keys, etc -- ideally on an external hard drive_**.  
   > _If you have specialty software (video editing software, etc), please check with the user and support communities to verify the compatible versions of OS X *before* upgrading._
@@ -36,8 +36,6 @@ Students will need:
         > git --version
 
 #### Optional (more detail coming later)
-1. [GitHub for Macs](https://mac.github.com/) -- if you are new to git/GitHub install this GUI tool after installing git as described above
-  - GitHub for Mac tutorial:  https://vimeo.com/98102453
 1. [Homebrew](http://brew.sh/)
 1. [CocoaPods](http://cocoapods.org)
 
