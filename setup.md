@@ -1,7 +1,7 @@
 # Setting up your Mac for iOS app development
 Students will need:
 
-1. **Mac computer** running [OS X Sierra](https://en.wikipedia.org/wiki/MacOS_Sierra#System_requirements) 10.12.1 (req'd to download Xcode 8.1 and have Swift 3.0.1), with **at least 8 GB** of RAM.
+1. **Mac computer** running [OS X Sierra](https://en.wikipedia.org/wiki/MacOS_Sierra#System_requirements) 10.12.1 (req'd to download Xcode 8.1 and have Swift 3.0.1), with **at least 8 GB** of RAM (4GB can be too sluggish at times).
 
   > **_If you are upgrading your operating system, remember to backup existing iOS projects, software keys, etc -- ideally on an external hard drive_**.  
   > _If you have specialty software (video editing software, etc), please check with the user and support communities to verify the compatible versions of OS X *before* upgrading._
