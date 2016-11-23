@@ -1,5 +1,6 @@
 # git vs GitHub
 - (section to be built out)
+- [CCSF Coders learning resources for git-GitHub](https://github.com/CCSF-Coders/learning-resources#git)
 
 # using git
 - (section to be built out)
@@ -7,11 +8,11 @@
 
 # using GitHub
 - (section to be built out)
-- here's a short video about using GitHub for Mac software:  https://vimeo.com/98102453
-- interacting with git-GitHub with Xcode's Source Control menu: 
-  - http://www.raywenderlich.com/51351/how-to-use-git-source-control-with-xcode-in-ios-7
-  - Facebook discussion:  https://www.facebook.com/groups/codepathuniversity/permalink/221290394870573
-    - the individual Vimeo video:  https://vimeo.com/150189264 
+
+# using git-GitHub from inside Xcode: 
+- http://www.raywenderlich.com/51351/how-to-use-git-source-control-with-xcode-in-ios-7 (older, but still useful)
+- Facebook discussion:  https://www.facebook.com/groups/codepathuniversity/permalink/221290394870573 (older, but still useful)
+  - the individual Vimeo video:  https://vimeo.com/150189264 
 
 # using version control in general
 - [PSA for good commit messages](https://www.youtube.com/watch?v=8YjSty6bfog)
